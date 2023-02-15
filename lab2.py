@@ -9,3 +9,9 @@ def print_args():
         print("Script and variables:", script_name, variables)
 
 print_args()
+
+def helloWorld():
+	print('Hello World')
+
+
+helloWorld()
